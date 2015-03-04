@@ -1,0 +1,14 @@
+{
+  "name": "lfgmrg-sshdmn",
+  "version": "0.1.0",
+  "author": "lfgmrg",
+  "summary": "SSHD daemon stability and line based parameters control",
+  "license": "Apache 2.0",
+  "source": "GIT",
+  "project_page": "GIT",
+  "issues_url": "GIT",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
